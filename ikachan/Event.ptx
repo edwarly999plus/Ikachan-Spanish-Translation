@@ -1,0 +1,990 @@
+f50Fuzu's request
+f51Attack star battle
+f52End of battle
+f53The earthquake made a crack
+f54Ironhead's code recieved
+f55Suka Bread
+f56Shrimp Cocktail
+f57Crab Soup
+f58Globefish Platter
+f59The pearl was taken
+f60Pinky fell
+f61Trapped
+f62Capacitor
+f63Getting Pinky home
+f64Globefish Platter recieved
+f65Numb
+f66Ironhead attack
+f67Final earthquake
+#e0000-DUMMY----------------------
+<end
+#e0001----------------------------
+Comenzar una nueva partida?
+<yn0000
+<dl
+<end
+#e0002-START----------------------
+<ps
+<ds
+Despiertas en una cueva submarina./
+.../
+<fi
+<nm
+Nada, Ikachan!/
+<pp
+<end
+#e0003-SLEEP----------------------
+<fj0067-0000
+Quieres descansar?
+<yn0004
+<ij0011-0000
+Quieres guardar la partida?
+<yn0005
+<end
+#e0004-SLEEP----------------------
+<fo
+<wa0040
+<ma
+<ce
+<wa0080
+<e+
+<fi
+<nm
+Despiertas.+
+Tu salud se ha recuperado!/
+<ij0011-0000
+Quieres guardar la partida?
+<yn0005
+<end
+#e0005-SLEEP----------------------
+<ds
+Tu partida ha sido guardada./
+<end
+#e0006----------------------------
+Has muerto./
+Salir?
+<yn0007
+<fo
+<wa0040
+<ma
+<wa0080
+<dl
+<ce
+<pd0000
+<fi
+<nm
+<re
+Ten mas cuidado esta vez!/
+<end
+#e0007----------------------------
+<ex
+<end
+#e0050----------------------------
+<ij0011-0115
+<fj0059-0131
+<fj0058-0129
+<ij0005-0130
+<fj0052-0128
+<fj0050-0127
+<ij0001-0126
+Ikachan! Donde has estado?/
+.../
+Este lugar?/
+No estoy seguro. Parece que esta+
+gobernado por un pez gigante llamado+
+Ironhead./
+Ultimamente, los terremotos los han+
+aislado del resto del mar./
+Ironhead los tiene a todos paranoicos.+
+Para mostrar tu lealtad a Ironhead,+
+te hace llevar una perla./
+Sin una perla, seras atacado por+
+los lugarenos./
+No tengo perla, asi que tengo que+
+esconderme aqui abajo./
+.../
+Oye.../
+Tu tampoco tienes perla,+
+verdad?/
+Estas buscando una?
+<yn0051
+Buena respuesta. Es demasiado+
+peligroso nadar cerca de Ironhead./
+Estamos seguros aqui abajo./
+<end
+#e0051----------------------------
+Esta bien, pero ten cuidado. Es muy+
+peligroso nadar por estas aguas+
+sin una perla./
+<end
+#e0052----------------------------
+<ij0011-0118
+<fj0066-0107
+Una perla?/
+Solia tener una, pero alguien me la+
+robo./
+Fuiste tu, nino?+
+Dejame registrarte!/
+.../
+<ij0005-0087
+Supongo que no la tomaste.+
+Lo siento./
+No todos aqui son amables.+
+Cuidate, nino./
+<end
+#e0053----------------------------
+<ij0011-0117
+<fj0066-0107
+<fj0054-0071
+Necesitamos encontrar la Perla Madre.+
+Lo es todo para nosotros./
+.../
+No te habia visto antes.+
+Eres nuevo por aqui?/
+Toma, este es el codigo de Ironhead.+
+Las leyes que nos gobiernan a todos./
+<i+0004
+<f+0054
+Has obtenido el codigo de Ironhead./
+<end
+#e0054-(FOODS)--------------------
+<ij0011-0113
+<fj0066-0104
+<fj0063-0099
+<fj0059-0089
+<ij0006-0085
+<ij0007-0085
+
+<fj0058-0084
+<fj0057-0081
+<fj0056-0078
+
+<fj0050-0059
+Oh, estoy arruinado.+
+Un hombre muerto.+
+Oh, cielos!/
+No has venido a atacarme,+
+verdad?
+<yn0056
+Uf!/
+Siento estar tan nervioso.+
+Veras, estoy en un aprieto./
+Te gustaria escucharlo?
+<yn0057
+Oh, que lastima.+
+Que lastima./
+Esperaba que pudieras ayudarme./
+<end
+#e0056-(FOODS)--------------------
+Eeep!/
+No me ataques! Por favor!/
+Soy un ciudadano del reino de Ironhead,+
+de verdad!/
+Este es el almacen de comida.+
+Debo vigilarlo!/
+Esto es toda la comida que nos+
+queda./
+Si me llevas, algun gloton podria+
+entrar y comerse toda nuestra+
+comida. Moririamos de hambre!/
+<end
+#e0057-(FOODS)--------------------
+<ph
+Durante uno de los terremotos,+
+me cai de esta repisa y+
+perdi mi perla!/
+Ahora cualquier criatura marina puede+
+venir a molestarme porque no puedo+
+demostrar que soy ciudadano del reino+
+de Ironhead./
+Podrias encontrar mi perla?/
+Yo iria, pero nos estamos quedando+
+sin comida y es vital que proteja lo+
+que nos queda./
+Toma, espero que esto te ayude./
+Has obtenido el suero herbal./
+Parece algo desagradable.../
+<i+0003
+<f+0050
+<pn
+<end
+#e0058-(ZOO)----------------------
+<ij0011-0114
+<fj0052-0066
+<fj0051-0000
+<pf
+Ser centinela es muy aburrido!/
+Todo lo que hago es sentarme y+
+esperar para lanzar las estrellas+
+de ataque de Ironhead contra un enemigo./
+Pero no hay extranos aqui.+
+Todos tienen una perla./
+.../
+Oye.../
+Espera.../
+No tienes perla!/
+PREPARATE A DEFENDERTE!/
+<se0005
+<pc0057-0031-0000
+<pc0046-0030-0129
+<pd0002
+<f+0051
+<end
+#e0059-(FOODS)--------------------
+No puedo agradecerte lo suficiente.+
+De verdad./
+<end
+#e0060-(ZOO1)---------------------
+<se0005
+<pc0060-0031-0000
+<end
+#e0061-(ZOO2)---------------------
+<se0005
+<pc0051-0032-0000
+<pc0054-0031-0000
+<end
+#e0062-(ZOO4)---------------------
+<se0005
+<pc0049-0038-0000
+<end
+#e0063-(ZOO5)---------------------
+<se0005
+<pc0052-0039-0000
+<end
+#e0064-(ZOO6)---------------------
+<se0005
+<pc0056-0040-0000
+<end
+#e0065-(ZOO7LAST)-----------------
+<ps
+Has derrotado las estrellas+
+de ataque de Ironhead!/
+<se0005
+<pc0064-0036-0000
+<pc0046-0030-0000
+<pd0000
+<f+0052
+Vaya! Debes ser un guerrero+
+habilidoso./
+Por favor, no me ataques,+
+senor guerrero./
+Solo segui ordenes!/
+Puedes pasar./
+<end
+#e0066-(ZOO)----------------------
+Eep!+
+Lo siento!/
+No me hagas dano!/
+<end
+#e0067-(ZOO)----------------------
+<pc0057-0031-0129
+<pc0060-0031-0129
+<pc0051-0032-0129
+<pc0054-0031-0129
+<pc0049-0038-0129
+<pc0052-0039-0129
+<pc0056-0040-0129
+<end
+#e0068-(KIRETU)-------------------
+<ij0011-0120
+<fj0053-0070
+Uno de los terremotos abrio+
+una pequena grieta aqui./
+Es demasiado pequena para pasar,+
+eso si.../
+<fj0050-0069
+<end
+#e0069-(KIRETU)-------------------
+<ek
+<se0015
+<wa0040
+<se0005
+<pc0091-0061-0000
+Oye!+
+<wa0040
+<f+0053
+Ahh!/
+<fj0053-0070
+<end
+#e0070-(KIRETU)-------------------
+Vaya, ese fue un terremoto+
+enorme./
+<end
+#e0071-(SETUMEISYO)---------------
+Ya leiste el codigo?/
+<end
+#e0072-(Pinky)--------------------
+<ij0011-0111
+<fj0066-0106
+<fj0064-0098
+<fj0063-0097
+<ij0008-0096
+
+<fj0061-0093
+<fj0060-0092
+Oh, hola.+
+Quien eres?/
+.../
+Ikachan? Ese es un nombre+
+gracioso. Yo me llamo Pinky!/
+Mi papa dice que no hable+
+con extranos, pero tu/ pareces muy amable.+
+Conoces a mi papa?/
+El es el vigilante del+
+almacen de comida./
+<end
+#e0073-(PinkyMAMA)----------------
+<ij0011-0112
+<fj0066-0105
+<fj0063-0100
+<fj0060-0091
+<fj0059-0090
+Todos estos terremotos estan+
+empezando a preocuparme./
+Espero que Pinky este bien.../
+<end
+#e0074-(CARRY)--------------------
+<ij0011-0116
+<ij0009-0101
+<ij0007-0082
+<ij0006-0079
+<fj0065-0102
+<fj0058-0083
+<fj0057-0080
+<fj0056-0077
+Mientras la Perla Madre siga+
+perdida, violentos terremotos/
+azotaran nuestras aguas./
+Si la encuentras, traemela+
+de inmediato!/
+<ij0002-0076
+<end
+#e0075-(KASHIPAN)-----------------
+<fj0055-0000
+Encuentras algo entre los+
+restos del pez.../
+<f+0055
+<i+0002
+Encontraste pan suka!/
+<end
+#e0076-(CARRY)--------------------
+.../
+Tienes pan suka!?/
+A mi... digo, a Ironhead+
+le encanta el pan suka!/
+Si me lo das,+
+te dare una perla!/
+<i-0002
+<i+0005
+Carry te dio una perla./
+<f+0056
+Espera aqui.../
+<fo
+<wa0040
+<ma
+<wa0080
+<fi
+<nm
+Todavia tengo... digo... Ironhead+
+sigue teniendo hambre./
+Podrias ir al almacen de comida+
+y traer un coctel de camarones para el?/
+<end
+#e0077-(CARRY)--------------------
+Ve al almacen de comida y+
+trae un coctel de camarones. Date prisa!/
+No queremos que Ironhead espere./
+<end
+#e0078-(FOODS)--------------------
+Hmm.../
+Dices que Ironhead quiere un+
+coctel de camarones?/
+Nos estamos quedando sin comida...+
+Pero supongo que es para Ironhead./
+<i+0006
+Has obtenido el coctel de camarones.+
+No lo desperdicies!/
+<end
+#e0079-(CARRY)--------------------
+<i-0006
+Ah, lo tienes! Se lo llevare+
+a Ironhead de inmediato./
+Espera aqui./
+<fo
+<wa0040
+<ma
+<wa0080
+<fi
+<nm
+<f+0057
+<fj0057-0080
+<end
+#e0080-(CARRY)--------------------
+Ironhead sigue teniendo hambre. Ahora+
+quiere sopa de cangrejo. Puedes+
+traer un poco del almacen?/
+<end
+#e0081-(FOODS)--------------------
+Que?+
+Ahora tambien quieres sopa de cangrejo?/
+Tenemos una grave escasez de+
+comida ahora.../
+Supongo que si es para Ironhead.../
+.../
+Tomalo./
+<i+0007
+Has obtenido sopa de cangrejo./
+<end
+#e0082-(CARRY)--------------------
+<i-0007
+Oye, gracias! Se lo llevare+
+a Ironhead de inmediato./
+Espera aqui./
+<fo
+<wa0040
+<ma
+<wa0080
+<fi
+<nm
+<f+0058
+<fj0058-0083
+<end
+#e0083-(CARRY)--------------------
+Parece que el vientre de Ironhead+
+nunca se llena. Jeje./
+Ahora quiere una bandeja de+
+pez globo. Muevete./
+<end
+#e0084-(FOODS)--------------------
+Una bandeja de pez globo tambien?/
+Si Ironhead sigue con sus habitos+
+alimenticios, le daran calambres+
+estomacales.../
+.../
+Oye, tu!+
+Esa es mi perla!/
+Por que la tienes?/
+.../
+Vamos, devuelvela!+
+No seas irrazonable./
+.../
+Por favor?/
+<i-0005
+Te quitaron la perla./
+Apuesto a que esa comida ni siquiera+
+era para Ironhead./
+Ve a buscar tu pez globo a otro+
+lugar. Ya tenemos poca comida+
+como esta./
+<f+0059
+<end
+#e0085-(FOODS)--------------------
+Tenemos una verdadera escasez de comida./
+A menos que encontremos mas comida pronto,+
+todos moriremos de hambre.../
+<end
+#e0086----------------------------
+<end
+#e0087----------------------------
+Bueno, tienes una perla.+
+Pero no es la mia./
+Perdon por molestarte./
+<end
+#e0088----------------------------
+<ij0011-0119
+<fj0066-0123
+Ese pez jawfish de ahi arriba,+
+se llama Carry./
+Es la mano derecha de Ironhead. Si quieres+
+hablar con Ironhead, primero tienes+
+que hablar con el./
+<end
+#e0089-(FOODS)--------------------
+Siento todas las molestias./
+Solo queria recuperar mi perla./
+Creo que mi esposa tenia algo de+
+pez globo antes. Deberias hablar+
+con ella./
+<end
+#e0090-(PinkyMAMA)----------------
+<ek
+<se0015
+<wa0040
+<se0005
+<pc0037-0067-0000
+<f+0060
+<fj0060-0091
+<end
+#e0091-(PinkyMAMA)----------------
+Eep! Ese fue uno enorme!!/
+Oh, cielos, espero que Pinky este bien!/
+Podrias ir a ver como esta?/
+<end
+#e0092-(Pinky)--------------------
+Vaya, eso fue divertido! El suelo+
+se derrumbo y cai aqui abajo!/
+Jaja, puedo hacerlo otra vez?/
+<se0005
+<pc0037-0067-0129
+<f+0061
+Uh oh./
+Podemos salir, senor Ikachan?/
+<end
+#e0093-(Pinky)--------------------
+Esta pared parece facil de perforar./
+Si pudiera clavarme en ella.../
+<end
+#e0094----------------------------
+"Almacen de comida"/
+<end
+#e0095-(CONDENSA)-----------------
+<fj0062-0000
+Encuentras algo entre los+
+restos del pez.../
+<f+0062
+<i+0008
+Has obtenido el condensador!/
+<se0005
+<pc0111-0023-0224
+<pc0114-0021-0224
+<end
+#e0096-(Pinky)--------------------
+Ikachan! No pense que volverias!/
+Sabia que eras un buen tipo.+
+Lo sabia./
+Creo que me ire a casa ahora./
+<fo
+<wa0040
+<ma
+<wa0080
+<cm0030-0130-0068
+<fi
+<nm
+<f+0063
+<end
+#e0097-(Pinky)--------------------
+Como puedo agradecerte?/
+No tengo mucho que dar, pero+
+si quieres esta bandeja de pez globo,+
+puedes quedartela./
+Mi mama dice que es demasiado peligrosa+
+para que yo la coma.../
+<i+0009
+<f+0064
+Has obtenido la bandeja de pez globo./
+Debido a todos los terremotos,+
+nos hemos aislado del resto del mar./
+Ironhead nos ha vuelto paranoicos a todos+
+para poder mantenernos bajo control y+
+mantenerse en el poder./
+Tenemos que detenerlo!/
+<end
+#e0098-(Pinky)--------------------
+Debemos detener a Ironhead./
+<end
+#e0099-(FOODS)--------------------
+Gracias por rescatar a nuestra+
+hija. Estamos en deuda contigo./
+<end
+#e0100-(PinkyMAMA)----------------
+No puedo agradecerte lo suficiente+
+por haber salvado a mi Pinky./
+<end
+#e0101-(CARRY)--------------------
+<i-0009
+Ahh, pez globo!!/
+Voy a devorarlo... digo,+
+llevarselo a Ironhead inmediatamente!/
+Espera aqui.../
+<fo
+<wa0040
+<ma
+<wa0080
+<cm0027-0112-0093
+<fi
+<nm
+<f+0065
+<end
+#e0102-(CARRY)--------------------
+Ugh.../
+Pez globo.../
+Veneno.../
+Dolor de+
+estomago.../
+Puaj!/
+<end
+#e0103----------------------------
+<ij0011-0121
+Puedes atacar a los enemigos+
+clavandoles tu caparazon puntiagudo./
+Cuando escuches este sonido:/
+<se0000
+/
+El enemigo era demasiado fuerte+
+y resistio tu ataque./
+<end
+#e0104-(FOODS)--------------------
+Asi que derrotaste a Ironhead?/
+No importa mucho, de todas formas nos+
+hemos quedado sin comida.../
+Todo lo que puedo hacer ahora es mantener+
+a mi familia a salvo./
+<end
+#e0105-(PinkyMAMA)----------------
+Mi esposo regreso del almacen.+
+Dice que nos hemos quedado sin comida!/
+<end
+#e0106-(Pinky)--------------------
+No estoy segura de como podemos escapar./
+Quizas un terremoto abra+
+un nuevo pasaje./
+O tal vez.../
+<end
+#e0107----------------------------
+Te enfrentaste a Ironhead?/
+Vaya./
+Tienes mas agallas que yo,+
+chico./
+Pero eso todavia no resuelve nuestro+
+problema de aislamiento.../
+<end
+#e0108----------------------------
+Oye, Ikachan! Soy yo, Ben./
+Gracias por liberarme./
+.../
+Estamos atrapados aqui?/
+Tonterias. Tiene que haber una+
+nave por algun lado./
+Con una nave, podriamos atravesar+
+toda esta roca y llegar a un lugar seguro./
+Te acompanare y buscare una./
+<i+0010
+Te has unido a Ben./
+<cm0040-0000-0000
+<end
+#e0109-(UFO)----------------------
+Esta es una nave muy extrana.../
+De donde vino, del espacio exterior?/
+<ij0010-0110
+<end
+#e0110-(BEN)----------------------
+Ikachan! Una nave!/
+.../
+Vaya, es una muy potente./
+Apuesto a que podriamos llegar hasta+
+el espacio con esta./
+<cm0039-0000-0000
+<i+0011
+Tu y Ben abordaron la nave./
+<end
+#e0111-(Pinky)--------------------
+Ah, sabia que habia una nave+
+en algun lugar por aqui!/
+Se ve increible.../
+Puedo ir contigo, Ikachan?/
+<ec
+<cm0030-0000-0000
+Pinky abordo la nave./
+<end
+#e0112-(PinkyMAMA)----------------
+Vamos a escapar?/
+Hurra!/
+Ahora puedo regresar al mar+
+abierto.../
+<ec
+<cm0031-0000-0000
+La madre de Pinky abordo la+
+nave./
+<end
+#e0113-(FOODS)--------------------
+Encontraste una forma de escapar?/
+Vaya. Primero rescatas a Pinky y+
+ahora esto./
+Realmente eres mi salvador./
+<ec
+<cm0004-0000-0000
+El padre de Pinky abordo la nave./
+<end
+#e0114-(ZOO)----------------------
+<pf
+Interesante cohete.+
+Casi parece un pajaro./
+<ec
+<cm0005-0000-0000
+Zu abordo la nave./
+<se0015
+<le
+<f+0067
+<pd0004
+Oh no, otro terremoto!/
+Rapido, busca a los demas.+
+Debemos irnos ahora!/
+<end
+#e0115-(OKU)----------------------
+Ikachan!?+
+Encontraste una nave!/
+Por fin podemos salir de aqui!/
+<ec
+<cm0000-0000-0000
+Oku abordo la nave./
+<end
+#e0116-(CARRY)--------------------
+Yo? Abordar la nave?/
+No se, todavia me siento muy+
+enfermo.../
+<ec
+<cm0027-0000-0000
+Carry abordo la nave./
+Hmm.../
+En realidad, esto es algo+
+emocionante!/
+<end
+#e0117-(SETUMEI)------------------
+Bonita nave./
+Esto va en contra del codigo de+
+Ironhead, pero.../
+...Puedo escapar contigo?/
+.../
+Gracias!/
+<ec
+<cm0003-0000-0000
+Setumei abordo la nave./
+<end
+#e0118-(ONBIN)--------------------
+Je, que es eso?/
+Un OVNI?/
+Bueno, si me saca de aqui./
+<ec
+<cm0002-0000-0000
+Onbin abordo la nave./
+<end
+#e0119-(ERASOU)-------------------
+Crees que esto nos sacara+
+de aqui?/
+<ec
+<cm0035-0000-0000
+Erasou abordo la nave./
+<end
+#e0120-(JISIN)--------------------
+Que es esto? Un cohete?/
+<ec
+<cm0015-0000-0000
+Jisin abordo la nave./
+<end
+#e0121-(OTO)----------------------
+Oye, que es eso?/
+Un huevo?/
+.../
+Oh, una nave espacial!/
+Dejame entrar!/
+<ec
+<cm0038-0000-0000
+Oto abordo la nave./
+<end
+#e0122-(TONGARI)------------------
+<ij0001-0000
+Encuentras algo entre los+
+restos del pez.../
+<i+0001
+Has obtenido el gorro puntiagudo!/
+<end
+#e0123----------------------------
+Ironhead abordo la nave,+
+aunque estaba un poco apretada.../
+<end
+#e0124----------------------------
+<pc0107-0065-0224
+<pc0105-0066-0000
+<pc0106-0066-0000
+<end
+#e0125----------------------------
+"La curiosidad mato al gato..."/
+<end
+#e0126----------------------------
+Jeje. Ese es un gorro gracioso el+
+que tienes. Apuesto a que podrias/
+perforar la roca esponjosa+
+con ese gorro./
+<end
+#e0127----------------------------
+Ojala tuviera una perla.../
+<end
+#e0128----------------------------
+Sintieron ese terremoto?/
+Ese fue el mas grande hasta ahora./
+<end
+#e0129----------------------------
+Pez globo? Puede que sepa bien,+
+pero esa cosa puede matar si no+
+se prepara bien./
+Ni aunque me pagaran lo comeria./
+<end
+#e0130----------------------------
+Alguien te robo tu perla?/
+Mala suerte, Ikachan./
+<end
+#e0131----------------------------
+Ya encontraste una forma de salir+
+de aqui?/
+<end
+
+#e1000-(BOSS)---------------------
+<ej0011-1004
+<ij0011-1003
+<fj0066-1002
+<pf
+Quien es este!?/
+<ft0001-0027
+Ironhead! El!/
+El es quien ha estado robando+
+*eructo* comida del almacen!/
+Tambien me engano a mi! Me engano+
+para que le diera una perla!/
+<ft0002-0000
+Hmm./
+Quien es este pequeno calamar?/
+No importa.+
+Lo aplastare./
+<bo0000
+<pd0002
+<pc0114-0091-0129
+<pc0114-0092-0129
+<ft0000-0000
+<end
+#e1001-(BOSS)---------------------
+<pf
+Agh! Derrotado por un calamar nino!/
+Eres un oponente digno./
+Que has hecho, otra vez?/
+Espanaste a Carry para que te diera+
+una perla?/
+Jeje. Tambien eres astuto./
+Como sea, no es mi problema.+
+Tu veras./
+Desde que quede aislado del resto+
+del mar, no he tenido nada bueno+
+para comer./
+Mírame./
+Esto famelico!/
+Nada libremente, pequeno calamar./
+Si encuentras algo de buena comida,+
+traemela./
+<f+0066
+<pd0003
+<pc0114-0091-0000
+<pc0114-0092-0000
+<cm0004-0133-0068
+<end
+#e1002-(BOSS)---------------------
+Tengo tanta hambre!/
+<end
+#e1003-(BOSS)---------------------
+Que? Quieres que escape en esa+
+cosa ridicula?/
+Estas bromeando?/
+.../
+Bueno, lo considerare.../
+<end
+#e1004-(BOSS)---------------------
+Todavia no estoy seguro./
+Cuanto tiempo viajaremos?+
+A donde vamos?/
+Habra algo de buena comida+
+alli?/
+<ec
+Ironhead fue forzado a subir a la+
+nave./
+<ge
+<end
+
+#e2001-(ITEM)---------------------
+Un gorro puntiagudo/
+Si te clavas con el puesto, puedes+
+atravesar la roca esponjosa/
+y herir a los enemigos./
+<end
+#e2002-(ITEM)---------------------
+Pan suka/
+Esta duro y poco apetitoso.../
+<end
+#e2003-(ITEM)---------------------
+Un suero herbal/
+Es un liquido espeso y maloliente./
+No estas seguro de lo que hara./
+Beberlo?
+<yn3000
+<end
+#e2004-(ITEM)---------------------
+"El codigo de Ironhead"/
+Dice:/
+Bienvenido a las aguas de Ironhead.+
+No se puede confiar en los extranos,+
+por lo tanto seran atacados./
+Aquellos con una perla son ciudadanos+
+del reino de Ironhead y estan protegidos+
+del peligro que enfrentan los extranos./
+Si tienes una perla, no ataques a+
+otros ciudadanos./
+Lo que se siembra se cosecha,+
+y si alguna vez te encuentras sin tu+
+perla, podrias ser atacado tu mismo!/
+<end
+#e2005-(ITEM)---------------------
+Una perla/
+Esta perla muestra que eres uno de+
+los seguidores de Ironhead. Con ella,+
+no seras atacado./
+<end
+#e2006-(ITEM)---------------------
+Coctel de camarones/
+Es muy sabroso+
+(si te gustan los camarones...)/
+<end
+#e2007-(ITEM)---------------------
+Sopa de cangrejo/
+Una comida muy sabrosa y exclusiva./
+<end
+#e2008-(ITEM)---------------------
+El condensador/
+Si mantienes presionada Z, puedes+
+correr a gran velocidad./
+<end
+#e2009-(ITEM)---------------------
+Bandeja de pez globo/
+Un plato muy elegante, buscado por+
+muchos./
+Pero ten cuidado!/
+Si no se cocina bien, es+
+venenoso./
+<end
+#e2010-(ITEM)---------------------
+Ben/
+<ij0011-3001
+Si Ben encuentra una nave, te lo+
+hara saber./
+<end
+#e2011-(ITEM)---------------------
+Una nave./
+Todo el mundo sabe lo que es una nave.../
+<end
+#e3000-(ITEM:KASIPAN)-------------
+<e+
+Tu salud se ha recuperado!/
+<i-0003
+<end
+#e3001-(ITEM:BEN)-----------------
+Si Ben encuentra una nave, te lo hara+
+saber./
+<end
+
+#e4000-(ENDING)-------------------
+<pf
+<fo
+<wa0040
+<ma
+Llegamos a un lugar seguro!/
+Apuesto a que hay algunos peces+
+sabrosos aqui arriba./
+FELICIDADES!!/
+<*
+<end
