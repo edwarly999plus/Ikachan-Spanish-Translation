@@ -37,7 +37,7 @@ Traducción al español del juego Ikachan, creado por Daisuke Amaya (Studio Pixe
 
 ## 📥 Instalación
 
-1. Descarga **Ikachan** desde la [página oficial de Studio Pixel](https://studiopixel.jp/) o desde el paquete de Doukutsu.
+1. Descarga **Ikachan** desde la [página oficial de Studio Pixel](https://studiopixel.jp/) o desde [cavestory.org (RECOMENDADO)](https://www.cavestory.org/downloads/ikachan.zip).
 2. Extrae el juego en una carpeta (ej. `Ikachan/`).
 3. **Sustituye** los archivos originales por los de esta traducción:
    - `Event.pxt`
