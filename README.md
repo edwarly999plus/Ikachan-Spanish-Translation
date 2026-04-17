@@ -1,10 +1,17 @@
+<div align= "center">
+
 # Ikachan - Traducción al Español
+
+<p align= "center">
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6f426305-64c8-48f3-acfc-d69741e1c70c" />
 
 [![Estado de traducción](https://img.shields.io/badge/Traducción-100%25_completa-brightgreen.svg)](https://github.com/[TU_USUARIO]/ikachan-espanol)
 [![Licencia](https://img.shields.io/badge/Licencia-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Traducción al español del juego Ikachan, creado por Daisuke Amaya (Studio Pixel).  
 > **Nota:** Debido a limitaciones de la fuente original, no se usan `ñ`, acentos, `¿` ni `¡`. Se han reemplazado por sus equivalentes en ASCII.
+
 ---
 ## Screenshots
 <img width="634" height="471" alt="image" src="https://github.com/user-attachments/assets/0cb3a331-7db9-4d6b-9340-223191503ab1" />
