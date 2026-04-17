@@ -42,8 +42,8 @@ Traducción al español del juego Ikachan, creado por Daisuke Amaya (Studio Pixe
 3. **Sustituye** los archivos originales por los de esta traducción:
    - `Event.pxt`
    - `Staff.pxt`
-   - `words.pxt` (si existe, o el fragmento de controles)
-4. Ejecuta `Ikachan.exe`.
+   - `words.pxt`
+4. Ejecuta `Ikachan.exe` o `dxIka.exe`.
 
 > ⚠️ **Importante:** Asegúrate de que los archivos tengan codificación ANSI/ASCII. No uses UTF-8 con BOM.
 
