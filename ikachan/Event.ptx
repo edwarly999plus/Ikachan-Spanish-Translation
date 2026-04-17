@@ -90,18 +90,20 @@ Ten mas cuidado esta vez!/
 Ikachan! Donde has estado?/
 .../
 Este lugar?/
-No estoy seguro. Parece que esta+
-gobernado por un pez gigante llamado+
-Ironhead./
-Ultimamente, los terremotos los han+
-aislado del resto del mar./
-Ironhead los tiene a todos paranoicos.+
-Para mostrar tu lealtad a Ironhead,+
-te hace llevar una perla./
-Sin una perla, seras atacado por+
-los lugarenos./
-No tengo perla, asi que tengo que+
-esconderme aqui abajo./
+No estoy seguro. Parece que+
+esta gobernado por un pez+
+gigante llamado Ironhead./
+Ultimamente, los terremotos+
+los han aislado del resto del+
+mar./
+Ironhead los tiene a todos+
+paranoicos. Para mostrar tu+
+lealtad a Ironhead, te hace+
+llevar una perla./
+Sin una perla, seras atacado+
+por los lugarenos./
+No tengo perla, asi que tengo+
+que esconderme aqui abajo./
 .../
 Oye.../
 Tu tampoco tienes perla,+
@@ -109,20 +111,21 @@ verdad?/
 Estas buscando una?
 <yn0051
 Buena respuesta. Es demasiado+
-peligroso nadar cerca de Ironhead./
+peligroso nadar cerca de+
+Ironhead./
 Estamos seguros aqui abajo./
 <end
 #e0051----------------------------
-Esta bien, pero ten cuidado. Es muy+
-peligroso nadar por estas aguas+
-sin una perla./
+Esta bien, pero ten cuidado.+
+Es muy peligroso nadar por+
+estas aguas sin una perla./
 <end
 #e0052----------------------------
 <ij0011-0118
 <fj0066-0107
 Una perla?/
-Solia tener una, pero alguien me la+
-robo./
+Solia tener una, pero alguien+
+me la robo./
 Fuiste tu, nino?+
 Dejame registrarte!/
 .../
@@ -136,16 +139,19 @@ Cuidate, nino./
 <ij0011-0117
 <fj0066-0107
 <fj0054-0071
-Necesitamos encontrar la Perla Madre.+
-Lo es todo para nosotros./
+Necesitamos encontrar la Perla+
+Madre. Lo es todo para+
+nosotros./
 .../
 No te habia visto antes.+
 Eres nuevo por aqui?/
-Toma, este es el codigo de Ironhead.+
-Las leyes que nos gobiernan a todos./
+Toma, este es el codigo de+
+Ironhead. Las leyes que nos+
+gobiernan a todos./
 <i+0004
 <f+0054
-Has obtenido el codigo de Ironhead./
+Has obtenido el codigo de+
+Ironhead./
 <end
 #e0054-(FOODS)--------------------
 <ij0011-0113
@@ -178,29 +184,30 @@ Esperaba que pudieras ayudarme./
 #e0056-(FOODS)--------------------
 Eeep!/
 No me ataques! Por favor!/
-Soy un ciudadano del reino de Ironhead,+
-de verdad!/
+Soy un ciudadano del reino de+
+Ironhead, de verdad!/
 Este es el almacen de comida.+
 Debo vigilarlo!/
 Esto es toda la comida que nos+
 queda./
-Si me llevas, algun gloton podria+
-entrar y comerse toda nuestra+
-comida. Moririamos de hambre!/
+Si me llevas, algun gloton+
+podria entrar y comerse toda+
+nuestra comida. Moririamos de+
+hambre!/
 <end
 #e0057-(FOODS)--------------------
 <ph
 Durante uno de los terremotos,+
-me cai de esta repisa y+
-perdi mi perla!/
-Ahora cualquier criatura marina puede+
-venir a molestarme porque no puedo+
-demostrar que soy ciudadano del reino+
-de Ironhead./
+me cai de esta repisa y perdi+
+mi perla!/
+Ahora cualquier criatura marina+
+puede venir a molestarme porque+
+no puedo demostrar que soy+
+ciudadano del reino de Ironhead./
 Podrias encontrar mi perla?/
-Yo iria, pero nos estamos quedando+
-sin comida y es vital que proteja lo+
-que nos queda./
+Yo iria, pero nos estamos+
+quedando sin comida y es vital+
+que proteja lo que nos queda./
 Toma, espero que esto te ayude./
 Has obtenido el suero herbal./
 Parece algo desagradable.../
@@ -215,8 +222,9 @@ Parece algo desagradable.../
 <pf
 Ser centinela es muy aburrido!/
 Todo lo que hago es sentarme y+
-esperar para lanzar las estrellas+
-de ataque de Ironhead contra un enemigo./
+esperar para lanzar las+
+estrellas de ataque de Ironhead+
+contra un enemigo./
 Pero no hay extranos aqui.+
 Todos tienen una perla./
 .../
@@ -231,8 +239,8 @@ PREPARATE A DEFENDERTE!/
 <f+0051
 <end
 #e0059-(FOODS)--------------------
-No puedo agradecerte lo suficiente.+
-De verdad./
+No puedo agradecerte lo+
+suficiente. De verdad./
 <end
 #e0060-(ZOO1)---------------------
 <se0005
@@ -290,8 +298,8 @@ No me hagas dano!/
 <fj0053-0070
 Uno de los terremotos abrio+
 una pequena grieta aqui./
-Es demasiado pequena para pasar,+
-eso si.../
+Es demasiado pequena para+
+pasar, eso si.../
 <fj0050-0069
 <end
 #e0069-(KIRETU)-------------------
@@ -327,11 +335,12 @@ Quien eres?/
 .../
 Ikachan? Ese es un nombre+
 gracioso. Yo me llamo Pinky!/
-Mi papa dice que no hable+
-con extranos, pero tu/ pareces muy amable.+
+Mi papa dice que no hable con+
+extranos, pero tu pareces muy+
+amable./
 Conoces a mi papa?/
-El es el vigilante del+
-almacen de comida./
+El es el vigilante del almacen+
+de comida./
 <end
 #e0073-(PinkyMAMA)----------------
 <ij0011-0112
@@ -370,10 +379,10 @@ Encontraste pan suka!/
 #e0076-(CARRY)--------------------
 .../
 Tienes pan suka!?/
-A mi... digo, a Ironhead+
-le encanta el pan suka!/
-Si me lo das,+
-te dare una perla!/
+A mi... digo, a Ironhead le+
+encanta el pan suka!/
+Si me lo das, te dare una+
+perla!/
 <i-0002
 <i+0005
 Carry te dio una perla./
@@ -385,14 +394,16 @@ Espera aqui.../
 <wa0080
 <fi
 <nm
-Todavia tengo... digo... Ironhead+
-sigue teniendo hambre./
+Todavia tengo... digo...+
+Ironhead sigue teniendo hambre./
 Podrias ir al almacen de comida+
-y traer un coctel de camarones para el?/
+y traer un coctel de camarones+
+para el?/
 <end
 #e0077-(CARRY)--------------------
-Ve al almacen de comida y+
-trae un coctel de camarones. Date prisa!/
+Ve al almacen de comida y trae+
+un coctel de camarones. Date+
+prisa!/
 No queremos que Ironhead espere./
 <end
 #e0078-(FOODS)--------------------
@@ -402,8 +413,8 @@ coctel de camarones?/
 Nos estamos quedando sin comida...+
 Pero supongo que es para Ironhead./
 <i+0006
-Has obtenido el coctel de camarones.+
-No lo desperdicies!/
+Has obtenido el coctel de+
+camarones. No lo desperdicies!/
 <end
 #e0079-(CARRY)--------------------
 <i-0006
@@ -420,13 +431,15 @@ Espera aqui./
 <fj0057-0080
 <end
 #e0080-(CARRY)--------------------
-Ironhead sigue teniendo hambre. Ahora+
-quiere sopa de cangrejo. Puedes+
-traer un poco del almacen?/
+Ironhead sigue teniendo hambre.+
+Ahora quiere sopa de cangrejo.+
+Puedes traer un poco del+
+almacen?/
 <end
 #e0081-(FOODS)--------------------
 Que?+
-Ahora tambien quieres sopa de cangrejo?/
+Ahora tambien quieres sopa de+
+cangrejo?/
 Tenemos una grave escasez de+
 comida ahora.../
 Supongo que si es para Ironhead.../
@@ -450,10 +463,10 @@ Espera aqui./
 <fj0058-0083
 <end
 #e0083-(CARRY)--------------------
-Parece que el vientre de Ironhead+
-nunca se llena. Jeje./
-Ahora quiere una bandeja de+
-pez globo. Muevete./
+Parece que el vientre de+
+Ironhead nunca se llena. Jeje./
+Ahora quiere una bandeja de pez+
+globo. Muevete./
 <end
 #e0084-(FOODS)--------------------
 Una bandeja de pez globo tambien?/
@@ -471,17 +484,18 @@ No seas irrazonable./
 Por favor?/
 <i-0005
 Te quitaron la perla./
-Apuesto a que esa comida ni siquiera+
-era para Ironhead./
+Apuesto a que esa comida ni+
+siquiera era para Ironhead./
 Ve a buscar tu pez globo a otro+
 lugar. Ya tenemos poca comida+
 como esta./
 <f+0059
 <end
 #e0085-(FOODS)--------------------
-Tenemos una verdadera escasez de comida./
-A menos que encontremos mas comida pronto,+
-todos moriremos de hambre.../
+Tenemos una verdadera escasez de+
+comida./
+A menos que encontremos mas comida+
+pronto, todos moriremos de hambre.../
 <end
 #e0086----------------------------
 <end
@@ -495,9 +509,9 @@ Perdon por molestarte./
 <fj0066-0123
 Ese pez jawfish de ahi arriba,+
 se llama Carry./
-Es la mano derecha de Ironhead. Si quieres+
-hablar con Ironhead, primero tienes+
-que hablar con el./
+Es la mano derecha de Ironhead.+
+Si quieres hablar con Ironhead,+
+primero tienes que hablar con el./
 <end
 #e0089-(FOODS)--------------------
 Siento todas las molestias./
@@ -517,12 +531,14 @@ con ella./
 <end
 #e0091-(PinkyMAMA)----------------
 Eep! Ese fue uno enorme!!/
-Oh, cielos, espero que Pinky este bien!/
+Oh, cielos, espero que Pinky+
+este bien!/
 Podrias ir a ver como esta?/
 <end
 #e0092-(Pinky)--------------------
-Vaya, eso fue divertido! El suelo+
-se derrumbo y cai aqui abajo!/
+Vaya, eso fue divertido! El+
+suelo se derrumbo y cai aqui+
+abajo!/
 Jaja, puedo hacerlo otra vez?/
 <se0005
 <pc0037-0067-0129
@@ -531,7 +547,8 @@ Uh oh./
 Podemos salir, senor Ikachan?/
 <end
 #e0093-(Pinky)--------------------
-Esta pared parece facil de perforar./
+Esta pared parece facil de+
+perforar./
 Si pudiera clavarme en ella.../
 <end
 #e0094----------------------------
@@ -564,19 +581,22 @@ Creo que me ire a casa ahora./
 <end
 #e0097-(Pinky)--------------------
 Como puedo agradecerte?/
-No tengo mucho que dar, pero+
-si quieres esta bandeja de pez globo,+
-puedes quedartela./
-Mi mama dice que es demasiado peligrosa+
-para que yo la coma.../
+No tengo mucho que dar, pero si+
+quieres esta bandeja de pez+
+globo, puedes quedartela./
+Mi mama dice que es demasiado+
+peligrosa para que yo la coma.../
 <i+0009
 <f+0064
-Has obtenido la bandeja de pez globo./
+Has obtenido la bandeja de pez+
+globo./
 Debido a todos los terremotos,+
-nos hemos aislado del resto del mar./
-Ironhead nos ha vuelto paranoicos a todos+
-para poder mantenernos bajo control y+
-mantenerse en el poder./
+nos hemos aislado del resto del+
+mar./
+Ironhead nos ha vuelto paranoicos+
+a todos para poder mantenernos+
+bajo control y mantenerse en el+
+poder./
 Tenemos que detenerlo!/
 <end
 #e0098-(Pinky)--------------------
@@ -587,14 +607,16 @@ Gracias por rescatar a nuestra+
 hija. Estamos en deuda contigo./
 <end
 #e0100-(PinkyMAMA)----------------
-No puedo agradecerte lo suficiente+
-por haber salvado a mi Pinky./
+No puedo agradecerte lo+
+suficiente por haber salvado a+
+mi Pinky./
 <end
 #e0101-(CARRY)--------------------
 <i-0009
 Ahh, pez globo!!/
 Voy a devorarlo... digo,+
-llevarselo a Ironhead inmediatamente!/
+llevarselo a Ironhead+
+inmediatamente!/
 Espera aqui.../
 <fo
 <wa0040
@@ -609,14 +631,14 @@ Espera aqui.../
 Ugh.../
 Pez globo.../
 Veneno.../
-Dolor de+
-estomago.../
+Dolor de estomago.../
 Puaj!/
 <end
 #e0103----------------------------
 <ij0011-0121
 Puedes atacar a los enemigos+
-clavandoles tu caparazon puntiagudo./
+clavandoles tu caparazon+
+puntiagudo./
 Cuando escuches este sonido:/
 <se0000
 /
@@ -625,19 +647,21 @@ y resistio tu ataque./
 <end
 #e0104-(FOODS)--------------------
 Asi que derrotaste a Ironhead?/
-No importa mucho, de todas formas nos+
-hemos quedado sin comida.../
-Todo lo que puedo hacer ahora es mantener+
-a mi familia a salvo./
+No importa mucho, de todas formas+
+nos hemos quedado sin comida.../
+Todo lo que puedo hacer ahora es+
+mantener a mi familia a salvo./
 <end
 #e0105-(PinkyMAMA)----------------
 Mi esposo regreso del almacen.+
-Dice que nos hemos quedado sin comida!/
+Dice que nos hemos quedado sin+
+comida!/
 <end
 #e0106-(Pinky)--------------------
-No estoy segura de como podemos escapar./
-Quizas un terremoto abra+
-un nuevo pasaje./
+No estoy segura de como podemos+
+escapar./
+Quizas un terremoto abra un+
+nuevo pasaje./
 O tal vez.../
 <end
 #e0107----------------------------
@@ -645,8 +669,8 @@ Te enfrentaste a Ironhead?/
 Vaya./
 Tienes mas agallas que yo,+
 chico./
-Pero eso todavia no resuelve nuestro+
-problema de aislamiento.../
+Pero eso todavia no resuelve+
+nuestro problema de aislamiento.../
 <end
 #e0108----------------------------
 Oye, Ikachan! Soy yo, Ben./
@@ -656,7 +680,8 @@ Estamos atrapados aqui?/
 Tonterias. Tiene que haber una+
 nave por algun lado./
 Con una nave, podriamos atravesar+
-toda esta roca y llegar a un lugar seguro./
+toda esta roca y llegar a un+
+lugar seguro./
 Te acompanare y buscare una./
 <i+0010
 Te has unido a Ben./
@@ -664,15 +689,16 @@ Te has unido a Ben./
 <end
 #e0109-(UFO)----------------------
 Esta es una nave muy extrana.../
-De donde vino, del espacio exterior?/
+De donde vino, del espacio+
+exterior?/
 <ij0010-0110
 <end
 #e0110-(BEN)----------------------
 Ikachan! Una nave!/
 .../
 Vaya, es una muy potente./
-Apuesto a que podriamos llegar hasta+
-el espacio con esta./
+Apuesto a que podriamos llegar+
+hasta el espacio con esta./
 <cm0039-0000-0000
 <i+0011
 Tu y Ben abordaron la nave./
@@ -693,8 +719,7 @@ Ahora puedo regresar al mar+
 abierto.../
 <ec
 <cm0031-0000-0000
-La madre de Pinky abordo la+
-nave./
+La madre de Pinky abordo la nave./
 <end
 #e0113-(FOODS)--------------------
 Encontraste una forma de escapar?/
@@ -801,17 +826,18 @@ aunque estaba un poco apretada.../
 "La curiosidad mato al gato..."/
 <end
 #e0126----------------------------
-Jeje. Ese es un gorro gracioso el+
-que tienes. Apuesto a que podrias/
-perforar la roca esponjosa+
-con ese gorro./
+Jeje. Ese es un gorro gracioso+
+el que tienes. Apuesto a que+
+podrias perforar la roca+
+esponjosa con ese gorro./
 <end
 #e0127----------------------------
 Ojala tuviera una perla.../
 <end
 #e0128----------------------------
 Sintieron ese terremoto?/
-Ese fue el mas grande hasta ahora./
+Ese fue el mas grande hasta+
+ahora./
 <end
 #e0129----------------------------
 Pez globo? Puede que sepa bien,+
@@ -838,8 +864,9 @@ Quien es este!?/
 Ironhead! El!/
 El es quien ha estado robando+
 *eructo* comida del almacen!/
-Tambien me engano a mi! Me engano+
-para que le diera una perla!/
+Tambien me engano a mi! Me+
+engano para que le diera una+
+perla!/
 <ft0002-0000
 Hmm./
 Quien es este pequeno calamar?/
@@ -853,22 +880,23 @@ Lo aplastare./
 <end
 #e1001-(BOSS)---------------------
 <pf
-Agh! Derrotado por un calamar nino!/
+Agh! Derrotado por un calamar+
+nino!/
 Eres un oponente digno./
 Que has hecho, otra vez?/
-Espanaste a Carry para que te diera+
-una perla?/
+Espanaste a Carry para que te+
+diera una perla?/
 Jeje. Tambien eres astuto./
 Como sea, no es mi problema.+
 Tu veras./
-Desde que quede aislado del resto+
-del mar, no he tenido nada bueno+
-para comer./
+Desde que quede aislado del+
+resto del mar, no he tenido+
+nada bueno para comer./
 Mírame./
-Esto famelico!/
+Estoy famelico!/
 Nada libremente, pequeno calamar./
-Si encuentras algo de buena comida,+
-traemela./
+Si encuentras algo de buena+
+comida, traemela./
 <f+0066
 <pd0003
 <pc0114-0091-0000
@@ -892,16 +920,16 @@ A donde vamos?/
 Habra algo de buena comida+
 alli?/
 <ec
-Ironhead fue forzado a subir a la+
-nave./
+Ironhead fue forzado a subir a+
+la nave./
 <ge
 <end
 
 #e2001-(ITEM)---------------------
 Un gorro puntiagudo/
-Si te clavas con el puesto, puedes+
-atravesar la roca esponjosa/
-y herir a los enemigos./
+Si te clavas con el puesto,+
+puedes atravesar la roca+
+esponjosa y herir a los enemigos./
 <end
 #e2002-(ITEM)---------------------
 Pan suka/
@@ -917,23 +945,27 @@ Beberlo?
 #e2004-(ITEM)---------------------
 "El codigo de Ironhead"/
 Dice:/
-Bienvenido a las aguas de Ironhead.+
-No se puede confiar en los extranos,+
-por lo tanto seran atacados./
-Aquellos con una perla son ciudadanos+
-del reino de Ironhead y estan protegidos+
-del peligro que enfrentan los extranos./
-Si tienes una perla, no ataques a+
-otros ciudadanos./
+Bienvenido a las aguas de+
+Ironhead./
+No se puede confiar en los+
+extranos, por lo tanto seran+
+atacados./
+Aquellos con una perla son+
+ciudadanos del reino de Ironhead+
+y estan protegidos del peligro+
+que enfrentan los extranos./
+Si tienes una perla, no ataques+
+a otros ciudadanos./
 Lo que se siembra se cosecha,+
-y si alguna vez te encuentras sin tu+
-perla, podrias ser atacado tu mismo!/
+y si alguna vez te encuentras+
+sin tu perla, podrias ser+
+atacado tu mismo!/
 <end
 #e2005-(ITEM)---------------------
 Una perla/
-Esta perla muestra que eres uno de+
-los seguidores de Ironhead. Con ella,+
-no seras atacado./
+Esta perla muestra que eres uno+
+de los seguidores de Ironhead.+
+Con ella, no seras atacado./
 <end
 #e2006-(ITEM)---------------------
 Coctel de camarones/
@@ -951,21 +983,21 @@ correr a gran velocidad./
 <end
 #e2009-(ITEM)---------------------
 Bandeja de pez globo/
-Un plato muy elegante, buscado por+
-muchos./
+Un plato muy elegante, buscado+
+por muchos./
 Pero ten cuidado!/
-Si no se cocina bien, es+
-venenoso./
+Si no se cocina bien, es venenoso./
 <end
 #e2010-(ITEM)---------------------
 Ben/
 <ij0011-3001
-Si Ben encuentra una nave, te lo+
-hara saber./
+Si Ben encuentra una nave, te+
+lo hara saber./
 <end
 #e2011-(ITEM)---------------------
 Una nave./
-Todo el mundo sabe lo que es una nave.../
+Todo el mundo sabe lo que es una+
+nave.../
 <end
 #e3000-(ITEM:KASIPAN)-------------
 <e+
@@ -973,8 +1005,8 @@ Tu salud se ha recuperado!/
 <i-0003
 <end
 #e3001-(ITEM:BEN)-----------------
-Si Ben encuentra una nave, te lo hara+
-saber./
+Si Ben encuentra una nave, te lo+
+hara saber./
 <end
 
 #e4000-(ENDING)-------------------
