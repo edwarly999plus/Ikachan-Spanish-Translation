@@ -15,6 +15,7 @@ Traducción al español del juego Ikachan, creado por Daisuke Amaya (Studio Pixe
 ---
 ## Screenshots
 <img width="634" height="471" alt="image" src="https://github.com/user-attachments/assets/0cb3a331-7db9-4d6b-9340-223191503ab1" />
+
 ---
 
 <div align= "left">
